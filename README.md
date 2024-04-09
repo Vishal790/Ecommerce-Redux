@@ -20,7 +20,7 @@ This repository contains the code for an ecommerce app built using React and Red
 
 To get started with this project, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/ecommerce-app.git`
+1. Clone this repository to your local machine using `git clone`
 2. Navigate into the cloned directory: `cd ecommerce-app`
 3. Install dependencies by running: `npm install`
 4. Run the app locally: `npm start`
